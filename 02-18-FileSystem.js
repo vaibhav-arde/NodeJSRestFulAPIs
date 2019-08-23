@@ -8,4 +8,6 @@ fs.readdir('./', function(err, files1){
     else console.log('Result', files1);
 });
 
-console.log(`Test`);
+console.log(`files`,files);
+
+console.log('Test this');

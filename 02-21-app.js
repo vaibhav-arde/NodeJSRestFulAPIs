@@ -7,4 +7,4 @@ logger.on('messageLogged', (arg) => {
     console.log('Listner Called', arg);
 });
 
-logger.log('message');
+logger.log('Test Message');
